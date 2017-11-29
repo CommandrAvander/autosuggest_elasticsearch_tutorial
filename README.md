@@ -5,7 +5,7 @@ This Repo includes the [sample doc](blog_06_autoSuggest_dataSet.js) to follow al
 
 This is a data indexing program for demonstrating the autoSuggest API in elasticsearch.
 
-### general points
+### General Points
 
 1. The sample data with 1000 documents can be found in the file mock_data.js. 
 2. The code for indexing the documents is in the file runningHere.js.
